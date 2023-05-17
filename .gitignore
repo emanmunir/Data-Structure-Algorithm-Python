@@ -1,6 +1,7 @@
 
-.vscode/settings.json
-LAB-03/.vscode/settings.json
 *.json
 Labs/LAB-05/__pycache__/class_nde.cpython-311.pyc
 Labs/LAB-05/__pycache__/class_node.cpython-311.pyc
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
